@@ -2,7 +2,6 @@
 
 import { Injectable } from '@angular/core';
 import { Hero } from './hero';
-import { HEROS } from './mock-heros';
 import { Headers, Http } from '@angular/http';
 import 'rxjs/add/operator/toPromise';
 
